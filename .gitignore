@@ -1,0 +1,6 @@
+   pdfs/
+   datos/externos/conapo_mitad_anio.csv
+   *.xlsx
+   ~$*
+   __pycache__/
+   .spyproject/

@@ -1,0 +1,30 @@
+Filas duplicadas: 0
+
+Semanas con != 33 filas: 0
+
+Máx |suma de estados - TOTAL| por columna:
+Sem_Total          0
+Acum_M             0
+Acum_F             0
+Acum_AnioPrevio    0
+
+¿Serie Colon idéntica a Pulmon? False  (debe ser False)
+
+¿Serie Colon idéntica a Pancreas? False  (debe ser False)
+
+¿Serie Pancreas idéntica a Pulmon? False  (debe ser False)
+
+Semanas a cotejar contra el PDF:
+  Cancer  Anio  SemanaEpidemiologica ArchivoOrigen  Acum_M  Acum_F  Bruto
+Pancreas  2024                    35     sem35.pdf     496     556     -8
+   Colon  2024                    26     sem26.pdf    1665    1339    219
+   Colon  2025                    31     sem31.pdf    1926    1889    188
+   Colon  2024                    31     sem31.pdf    1978    1626    187
+  Pulmon  2024                    39     sem39.pdf     955     762    161
+  Pulmon  2023                    34     sem34.pdf     582     502    132
+Pancreas  2024                    16     sem16.pdf     251     286     81
+  Pulmon  2024                    31     sem31.pdf     662     629     71
+Pancreas  2025                    43     sem43.pdf     642     744     62
+Pancreas  2025                    37     sem37.pdf     513     609     51
+
+Registros con corrección negativa (estado-semana): 0
