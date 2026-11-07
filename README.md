@@ -81,7 +81,7 @@ figuras/ comparativas/, pulmon/, colon/, pancreas/ (PDF y PNG)
 | Correcciones negativas tras el ajuste | 0 |
 
 ## Cómo citar
-Rivera Chávez, A. (2026). *boletin-neoplasias-mx* (v1.0.0) [Software]. Zenodo. <DOI>
+Rivera Chávez, A. (2026). *boletin-neoplasias-mx* (v1.0.0) [Software]. Zenodo. <DOI: 10.5281/zenodo.24026370>
 
 ## Licencia
 Código: MIT. Los datos provienen de fuentes públicas del Gobierno de México y conservan sus
